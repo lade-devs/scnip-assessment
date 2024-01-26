@@ -1,5 +1,16 @@
 ## Scnip Assessment
 
+### Setup
+### Step 1: clone repo
+### Step 2:
+````
+composer install
+````
+### Step 3:
+````
+php artisan key:generate
+````
+
 ## To preview
 app_url/sort-products?sortBy={sorting-definition}
 <p>
