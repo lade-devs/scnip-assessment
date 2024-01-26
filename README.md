@@ -17,7 +17,7 @@ app_url/sort-products?sortBy={sorting-definition}
    <b>Sorting Definition</b><br>
    sortBySalesPerView or sortByPrice
 </p>
-<p>It displayed a die dump of the products</p>
+<p>It displays a die dump of the products</p>
 
 ## New Team Sorter inclusion
 New team can add new sorters by creating a new class under "Support\\Sorters".
